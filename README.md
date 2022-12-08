@@ -64,7 +64,7 @@ Las consultas a realizar son:
 
 1. Ingesta y procesamiento de datos: <a href="https://github.com/JozCrzBrgn/ProyectoIndividual_01/blob/main/Ingesta_Transformacion_Carga.ipynb">[Jupyter Notebook]</a>
   
-2. Relacionar el conjunto de datos en MySQL Workbench y crear la base de datos y las tablas necesaria para realizar consultas.
+2. Relacionar el conjunto de datos en MySQL Workbench y crear la base de datos y las tablas necesaria para realizar consultas. <a href="https://github.com/JozCrzBrgn/ProyectoIndividual_01/blob/main/MyBaseDeDatos.sql">[Consultas SQL]</a>
 
 3. Crear la API en un entorno Docker
 
