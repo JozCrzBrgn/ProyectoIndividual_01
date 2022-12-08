@@ -66,7 +66,7 @@ Las consultas a realizar son:
   
 2. Relacionar el conjunto de datos en MySQL Workbench y crear la base de datos y las tablas necesaria para realizar consultas. <a href="https://github.com/JozCrzBrgn/ProyectoIndividual_01/blob/main/MyBaseDeDatos.sql">[Consultas SQL]</a>
 
-3. Crear la API en un entorno Docker
+3. Crear la API en un entorno Docker: <a href="https://github.com/JozCrzBrgn/ProyectoIndividual_01/tree/main/fastapi">[API dockerizada]</a>
 
 4. Realizar consultas solicitadas
 
