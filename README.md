@@ -62,7 +62,7 @@ Las consultas a realizar son:
 <p align=center>
 <img src = '/img_/pipeline.png' height = 200></p>
 
-1. Ingesta y procesamiento de datos: <a href="">[Jupyter Notebook]</a>
+1. Ingesta y procesamiento de datos: <a href="https://github.com/JozCrzBrgn/ProyectoIndividual_01/blob/main/Ingesta_Transformacion_Carga.ipynb">[Jupyter Notebook]</a>
   
 2. Relacionar el conjunto de datos en MySQL Workbench y crear la base de datos y las tablas necesaria para realizar consultas.
 
