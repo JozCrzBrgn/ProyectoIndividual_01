@@ -68,7 +68,7 @@ Las consultas a realizar son:
 
 3. Crear la API en un entorno Docker: <a href="https://github.com/JozCrzBrgn/ProyectoIndividual_01/tree/main/fastapi">[API dockerizada]</a>
 
-4. Realizar consultas solicitadas
+4. Realizar consultas solicitadas.
 
-5. Realizar un video demostrativo
+5. Video demostrativo: <a href="https://drive.google.com/file/d/1QyQmycHrteeUarGeMLTDkZjfKdvx2WzQ/view?usp=sharing">[Link al video]</a>
 
