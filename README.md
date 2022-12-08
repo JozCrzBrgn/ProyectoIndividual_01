@@ -7,7 +7,7 @@
 <img src="/img_/portada_github.png"  height=300>
 </p>
 
-Primer proyecto individual de la etapa de labs. En esta ocasión, se hará un trabajo situándose en el rol de un ***Data Engineer***. 
+En esta ocasión, se hará un trabajo situándose en el rol de un ***Data Engineer***. 
 
 ## **Introducción**
 
@@ -18,6 +18,29 @@ La idea de este proyecto es lograr internalizar los conocimientos requeridos par
 Hoy en día contamos con **FastAPI**, un web framework moderno y de alto rendimiento para construir APIs con Python.
 <p align=center>
 <img src = '/img_/imagen_api.png' height=250><p>
+  
+## **Tecnologías usadas**
+<!--- https://github.com/alexandresanlim/Badges4-README.md-Profile#-analytics- -->
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+## **Librerías:**
+<ul>
+    <li><strong>pandas</strong>: Es una herramienta de análisis y manipulación de datos de código abierto rápida, potente, flexible y fácil de usar, construido sobre el lenguaje de programación Python.</li>
+    <li><strong>pymysql</strong>: Es un paquete para la interacción con bases de datos MySQL escrito completamente en Python.</li>
+    <li><strong>sqlalchemy</strong>: Es un ORM (Asignador Relacional de Objetos) que brinda a los desarrolladores de aplicaciones todo el poder y la flexibilidad de SQL.</li>
+    <li><strong>fastAPI</strong>: Es un web framework moderno y rápido (de alto rendimiento) para construir APIs con Python 3.6+ basado en las anotaciones de tipos estándar de Python..</li>
+    <li><strong>uvicorn</strong>: Una librería que funciona como servidor, permite que cualquier computadora se convierta en servidor..</li>
+    <li><strong>X</strong>: X.</li>
+    <li><strong>X</strong>: X.</li>
+    <li><strong>X</strong>: X.</li>
+    <li><strong>X</strong>: X.</li>
+    <li><strong>X</strong>: X.</li>
+    <li><strong>X</strong>: X.</li>
+</ul>
   
 ## **Propuesta de trabajo**
 
@@ -39,3 +62,19 @@ Las consultas a realizar son:
 
 + Actor que más se repite según plataforma y año.
   El request debe ser: get_actor(plataforma, año)
+  
+## **Pasos del proyecto**
+
+<p align=center>
+<img src = 'https://i.postimg.cc/2SwvnTcw/Sin-t-tulo.png' height = 400></p>
+
+1. Ingesta y procesamiento de datos: <a href="">[Jupyter Notebook]</a>
+  
+2. Relacionar el conjunto de datos en MySQL Workbench y crear la base de datos y las tablas necesaria para realizar consultas.
+
+3. Crear la API en un entorno Docker
+
+4. Realizar consultas solicitadas
+
+5. Realizar un video demostrativo
+
