@@ -34,12 +34,6 @@ Hoy en día contamos con **FastAPI**, un web framework moderno y de alto rendimi
     <li><strong>sqlalchemy</strong>: Es un ORM (Asignador Relacional de Objetos) que brinda a los desarrolladores de aplicaciones todo el poder y la flexibilidad de SQL.</li>
     <li><strong>fastAPI</strong>: Es un web framework moderno y rápido (de alto rendimiento) para construir APIs con Python 3.6+ basado en las anotaciones de tipos estándar de Python..</li>
     <li><strong>uvicorn</strong>: Una librería que funciona como servidor, permite que cualquier computadora se convierta en servidor..</li>
-    <li><strong>X</strong>: X.</li>
-    <li><strong>X</strong>: X.</li>
-    <li><strong>X</strong>: X.</li>
-    <li><strong>X</strong>: X.</li>
-    <li><strong>X</strong>: X.</li>
-    <li><strong>X</strong>: X.</li>
 </ul>
   
 ## **Propuesta de trabajo**
@@ -66,7 +60,7 @@ Las consultas a realizar son:
 ## **Pasos del proyecto**
 
 <p align=center>
-<img src = 'https://i.postimg.cc/2SwvnTcw/Sin-t-tulo.png' height = 400></p>
+<img src = '/img_/pipeline.png' height = 200></p>
 
 1. Ingesta y procesamiento de datos: <a href="">[Jupyter Notebook]</a>
   
